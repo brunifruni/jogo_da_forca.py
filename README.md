@@ -1,6 +1,6 @@
 # Jogo da Forca em Python🕹️
 
-\nBem-vindo ao repositório do Jogo da Forca, um projeto simples e divertido desenvolvido em Python! Este jogo de terminal permite ao usuário testar seus conhecimentos de vocabulário tentando adivinhar palavras aleatórias enquanto uma forca é desenhada a cada erro cometido.
+Bem-vindo ao repositório do Jogo da Forca, um projeto simples e divertido desenvolvido em Python! Este jogo de terminal permite ao usuário testar seus conhecimentos de vocabulário tentando adivinhar palavras aleatórias enquanto uma forca é desenhada a cada erro cometido.
 
 ## Sobre o Projeto📜
 Este jogo é uma implementação clássica da forca com foco em práticas de programação modular, entrada de dados, manipulação de arquivos e lógica condicional. O código está dividido em diferentes arquivos para manter a organização e facilitar futuras melhorias.
