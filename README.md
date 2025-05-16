@@ -22,7 +22,7 @@ Este jogo é uma implementação clássica da forca com foco em práticas de pro
 Clone o repositório:
 
 bash:
-git clone https://github.com/brunifruni/jogo-da-forca.py
+git clone https://github.com/brunifruni/jogo_da_forca.py/tree/main
 cd jogo-da-forca
 
 Certifique-se de ter o Python 3 instalado.
